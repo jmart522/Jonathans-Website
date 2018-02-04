@@ -1,0 +1,17 @@
+.title {
+    background-color: darkgreen;
+    font-size: 72px;
+}
+
+body {
+    background-color: slategray;
+}
+
+.container {
+
+}
+
+.subtitle {
+    color: black;
+    font-size: 60px;
+}
